@@ -1,0 +1,24 @@
+{
+  "name": "wb-element",
+  "version": "1.0.1",
+  "description": "HTML version of element-ui",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seoul2k/wb-element.git"
+  },
+  "keywords": [
+    "wb-element",
+    "html",
+    "element-ui"
+  ],
+  "author": "xiongtianshuo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seoul2k/wb-element/issues"
+  },
+  "homepage": "https://github.com/seoul2k/wb-element#readme"
+}
